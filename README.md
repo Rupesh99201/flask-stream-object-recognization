@@ -23,3 +23,7 @@ _With the usage of eventlet, native threading functionalities don't work. Hence 
 
 ### Implementing ML code
 To implement custom features such as object detection and sending metadata along with the video stream.
+
+
+### Working Ml On Heroku
+https://stream-object-recognization.herokuapp.com/
